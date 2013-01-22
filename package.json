@@ -3,7 +3,10 @@
   "main": "painterly.js",
   "version": "0.0.1",
   "description": "A set of Painterly textures to be used for games.",
-  "repository": "",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dariusk/painterly-textures.git"
+  },
   "keywords": [
     "texture"
   ],
