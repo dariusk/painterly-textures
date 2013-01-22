@@ -4,7 +4,7 @@
 
 ```js
 // Get the texture path
-var texturePath = require('painterly');
+var texturePath = require('painterly-textures');
 
 // ...do stuff with it! For example, if you're using voxel.js:
 var createGame = require('voxel-engine');
