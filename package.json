@@ -1,0 +1,14 @@
+{
+  "name": "painterly-textures",
+  "main": "painterly.js",
+  "version": "0.0.1",
+  "description": "A set of Painterly textures to be used for games.",
+  "repository": "",
+  "keywords": [
+    "texture"
+  ],
+  "author": {
+    "name": "Darius Kazemi"
+  },
+  "license": "MIT"
+}
